@@ -1,6 +1,6 @@
 # grimiore
 
-#Privacy Policy
+Privacy Policy
 
 Effective Date: 18th October 2024
 
