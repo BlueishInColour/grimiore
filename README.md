@@ -1,6 +1,8 @@
 # grimiore
 ```  
 this page contains, grimoire`s Privacy Policy, User Agreement
+```  
+
 ## Privacy Policy
 ***
 
