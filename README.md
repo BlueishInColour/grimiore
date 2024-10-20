@@ -1,6 +1,9 @@
 # grimiore
-
-Privacy Policy
+```  
+this page contains, grimoire`s Privacy Policy, User Agreement
+```
+##Privacy Policy
+***
 
 Effective Date: 18th October 2024
 
@@ -42,6 +45,6 @@ We retain your information for as long as necessary to provide you with our serv
 
 We may update this Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page.
 
-7. Contact Us
 
-If 
+##User Agreement
+***
