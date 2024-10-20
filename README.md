@@ -2,7 +2,7 @@
 ```  
 this page contains, grimoire`s Privacy Policy, User Agreement
 ```
-##Privacy Policy
+## Privacy Policy
 ***
 
 Effective Date: 18th October 2024
